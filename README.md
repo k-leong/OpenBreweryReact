@@ -4,3 +4,8 @@
 
 ## Credits
 > Credits to [Chris J Mears](https://chrisjmears.com/) and [Wandering Leaf Studios LLC](https://wanderingleafstudios.com/) for providing and maintaining the [Open Brewery DB AP](https://www.openbrewerydb.org/)
+
+## To check this out
+1. `git clone https://github.com/kleong0221/OpenBreweryReact.git`
+2. `npm install`
+3. `npm run`
